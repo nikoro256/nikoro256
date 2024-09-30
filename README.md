@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=pytorch,fastapi,react,next,ts,mysql,docker,git,discord,wsl,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,fastapi,react,ts,mysql,docker,git,discord,notion" />
 <br>
 
 ## 🏃‍♀️ Activities

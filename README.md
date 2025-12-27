@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=1buk109" />
-</div>
-
 ## Hi there 👋
 - 🎓 Sophia Univ
 - 🧑‍💻 Atcoder Blue　(https://atcoder.jp/users/nikoro256)

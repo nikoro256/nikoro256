@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## Hi there 👋
-- 🎓 Sophia Univ
+- 🎓 Tokyo Univ (gradurated organization)
 - 🧑‍💻 Atcoder Blue　(https://atcoder.jp/users/nikoro256)
 <br>
 
